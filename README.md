@@ -35,6 +35,22 @@ This notebook estimates SNP-based heritability using twin data and compares it w
 
 ---
 
+## Set Up Environment
+
+Use the environment.yml file to configure the Python environment:
+```
+conda env create -f environment.yml
+conda activate factor
+```
+
+---
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE)
+
+---
+
+## Reference
+
+On the Fisher's Additive Model: Revisiting Heritability through Genotype Encoding, under review
