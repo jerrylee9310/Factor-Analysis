@@ -1,0 +1,196 @@
+UDI,Count,Type,Description,h2,se,ci,source,note
+48-0.0,500344,Continuous,Waist_circumference,0.56,,(0.48-0.63),https://www.nature.com/articles/ijo2008258,Finland male and using AE model
+48-0.0,500344,Continuous,Waist_circumference,0.71,,(0.67-0.75),https://www.nature.com/articles/ijo2008258,Finland female and using AE model
+48-0.0,500344,Continuous,Waist_circumference,0.48,,(0.23-0.73),https://www.nature.com/articles/0802524,Danish female and using AE model
+48-0.0,500344,Continuous,Waist_circumference,0.61,,(0.51-0.71),https://www.nature.com/articles/0802524,Danish male and using AE model
+48-0.0,500344,Continuous,Waist_circumference,0.48,,,https://www.nature.com/articles/0800840,Swedish female and using AE model
+48-0.0,500344,Continuous,Waist_circumference,0.46,,,https://www.nature.com/articles/0800840,Swedish male and using AE model
+48-0.0,500344,Continuous,Waist_circumference,0.83,,(0.76-0.88),https://www.nature.com/articles/s41366-023-01253-0.pdf,Portugal using AE model
+48-0.0,500344,Continuous,Waist_circumference,0.74,,(0.68-0.79),https://www.sciencedirect.com/science/article/pii/S1871403X12002505?via%3Dihub,multiehtnicity (EUR) using AE model
+
+49-0.0,500285,Continuous,Hip_circumference,0.52,,(0.28-0.76),https://www.nature.com/articles/0802524,Danish female and using AE model
+49-0.0,500285,Continuous,Hip_circumference,0.58,,(0.35-0.81),https://www.nature.com/articles/0802524,Danish male and using AE model
+49-0.0,500285,Continuous,Hip_circumference,0.89,,(0.85-0.92),https://www.nature.com/articles/s41366-023-01253-0.pdf,Portugal using AE model
+49-0.0,500285,Continuous,Hip_circumference,0.74,,(0.69-0.79),https://www.sciencedirect.com/science/article/pii/S1871403X12002505?via%3Dihub,multiehtnicity (EUR) using AE model
+
+50-0.0,499965,Continuous,Standing_height,0.730,0.019,,https://www.nature.com/articles/ng.3285,
+50-0.0,499965,Continuous,Standing_height,0.81,,(0.59-1.00),https://www.nature.com/articles/0802524,Danish female and using AE model
+50-0.0,499965,Continuous,Standing_height,0.69,,(0.49-0.89),https://www.nature.com/articles/0802524,Danish male and using AE model
+50-0.0,499965,Continuous,Standing_height,0.79,,,https://onlinelibrary.wiley.com/doi/10.1002/gepi.20308,Swedish male using ACE model
+50-0.0,499965,Continuous,Standing_height,0.92,,(0.88-0.94),https://www.nature.com/articles/s41366-023-01253-0.pdf,Portugal using AE model
+
+21002-0.0,499730,Continuous,Weight,0.746,0.022,,https://www.nature.com/articles/ng.3285,
+21002-0.0,499730,Continuous,Weight,0.84,,,https://onlinelibrary.wiley.com/doi/10.1002/gepi.20308,Swedish male using ACE model
+21002-0.0,499730,Continuous,Weight,0.89,,(0.85-0.92),https://www.nature.com/articles/s41366-023-01253-0.pdf,Portugal using AE model
+21002-0.0,499730,Continuous,Weight,0.82,,(0.878-0.85),https://www.sciencedirect.com/science/article/pii/S1871403X12002505?via%3Dihub,multiehtnicity (EUR) using AE model
+21002-0.0,499730,Continuous,Weight,0.40,,,https://academic.oup.com/jcem/article/82/3/781/2656283?login=true,UK female using AE model
+
+21001-0.0,499399,Continuous,Body_mass_index__BMI_,0.78,,(0.74-0.81),https://www.nature.com/articles/ijo2008258,Finland female and using AE model
+21001-0.0,499399,Continuous,Body_mass_index__BMI_,0.79,,(0.74-0.82),https://www.nature.com/articles/ijo2008258,Finland male and using AE model
+21001-0.0,499399,Continuous,Body_mass_index__BMI_,0.58,,(0.34-0.82),https://www.nature.com/articles/0802524,Danish female and using AE model
+21001-0.0,499399,Continuous,Body_mass_index__BMI_,0.63,,(0.36-0.90),https://www.nature.com/articles/0802524,Danish male and using AE model
+21001-0.0,499399,Continuous,Body_mass_index__BMI_,0.84,,,https://onlinelibrary.wiley.com/doi/10.1002/gepi.20308,Swedish male using ACE model
+21001-0.0,499399,Continuous,Body_mass_index__BMI_,0.89,,(0.85-0.92),https://www.nature.com/articles/s41366-023-01253-0.pdf,Portugal using AE model
+21001-0.0,499399,Continuous,Body_mass_index__BMI_,0.77,,(0.51-0.89),https://www.sciencedirect.com/science/article/pii/S1871403X12002505?via%3Dihub,multiehtnicity (EUR) using AE model
+21001-0.0,499399,Continuous,Body_mass_index__BMI_,0.45,,,https://onlinelibrary.wiley.com/doi/10.1002/gepi.1370050504,Australian using AE model
+
+47-0.0,499161,Integer,Hand_grip_strength__right_,0.52,,(0.48-0.55),https://onlinelibrary.wiley.com/doi/10.1002/gepi.1127,Danish using AE model
+47-0.0,499161,Integer,Hand_grip_strength__right_,0.30,,(0.00-0.61),https://onlinelibrary.wiley.com/doi/10.1359/jbmr.1997.12.12.2076,UK using AE model
+47-0.0,499161,Integer,Hand_grip_strength__right_,0.36,,(0.03-0.69),https://onlinelibrary.wiley.com/doi/10.1359/jbmr.1997.12.12.2076,UK using AE model
+47-0.0,499161,Integer,Hand_grip_strength__right_,0.66,,,https://onlinelibrary.wiley.com/doi/10.1002/gepi.20308,Swedish male using ACE model
+
+46-0.0,499094,Integer,Hand_grip_strength__left_,0.52,,(0.48-0.55),https://onlinelibrary.wiley.com/doi/10.1002/gepi.1127,Danish using AE model
+46-0.0,499094,Integer,Hand_grip_strength__left_,0.30,,(0.00-0.61),https://onlinelibrary.wiley.com/doi/10.1359/jbmr.1997.12.12.2076,UK using AE model
+46-0.0,499094,Integer,Hand_grip_strength__left_,0.36,,(0.03-0.69),https://onlinelibrary.wiley.com/doi/10.1359/jbmr.1997.12.12.2076,UK using AE model
+46-0.0,499094,Integer,Hand_grip_strength__left_,0.66,,,https://onlinelibrary.wiley.com/doi/10.1002/gepi.20308,Swedish male using ACE model
+
+20015-0.0,496227,Continuous,Sitting_height,0.91,,(0.88-0.94),https://www.nature.com/articles/s41366-023-01253-0.pdf,Portugal using AE model
+51-0.0,496227,Continuous,Seated_height,0.91,,(0.88-0.94),https://www.nature.com/articles/s41366-023-01253-0.pdf,Portugal using AE model
+
+23102-0.0,492371,Continuous,Whole_body_water_mass,0.76,,,https://pubmed.ncbi.nlm.nih.gov/15109035/,
+
+
+23101-0.0,492328,Continuous,Whole_body_fat-free_mass,0.76,,(0.71-0.81),https://www.sciencedirect.com/science/article/pii/S1871403X12002505?via%3Dihub,multiehtnicity (EUR) using AE model
+23101-0.0,492328,Continuous,Whole_body_fat-free_mass,0.52,,(0.23-0.81),https://onlinelibrary.wiley.com/doi/10.1359/jbmr.1997.12.12.2076,UK using AE model
+23101-0.0,492328,Continuous,Whole_body_fat-free_mass,0.56,,(0.24-0.88),https://onlinelibrary.wiley.com/doi/10.1359/jbmr.1997.12.12.2076,UK using AE model
+
+23100-0.0,491531,Continuous,Whole_body_fat_mass,0.65,,,https://pubmed.ncbi.nlm.nih.gov/15109035/,
+23100-0.0,491531,Continuous,Whole_body_fat_mass,0.48,,,https://academic.oup.com/jcem/article/82/3/781/2656283?login=true,UK female using AE model
+
+23099-0.0,492096,Continuous,Body_fat_percentage,0.59,,(0.26-0.92),https://www.nature.com/articles/0802524,Danish female and using AE model
+23099-0.0,492096,Continuous,Body_fat_percentage,0.63,,(0.32-0.98),https://www.nature.com/articles/0802524,Danish male and using AE model
+23099-0.0,492096,Continuous,Body_fat_percentage,0.86,,(0.70-0.93),https://onlinelibrary.wiley.com/doi/10.1038/oby.2005.265,Danish using AE model
+23099-0.0,492096,Continuous,Body_fat_percentage,0.48,,,https://academic.oup.com/jcem/article/82/3/781/2656283?login=true,UK female using AE model
+
+
+23111-0.0,492337,Continuous,Leg_fat_percentage__right_,0.81,,(0.61-0.90),https://onlinelibrary.wiley.com/doi/10.1038/oby.2005.265,Danish using AE model
+23115-0.0,492305,Continuous,Leg_fat_percentage__left_,0.81,,(0.61-0.90),https://onlinelibrary.wiley.com/doi/10.1038/oby.2005.265,Danish using AE model
+
+23127-0.0,492074,Continuous,Trunk_fat_percentage,0.85,,(0.69-0.92),https://onlinelibrary.wiley.com/doi/10.1038/oby.2005.265,Danish using AE model
+
+30510-0.0,484311,Continuous,Creatinine__enzymatic__in_urine,0.58,,,https://pmc.ncbi.nlm.nih.gov/articles/PMC3202796/,UK uisng AE model
+30510-0.0,484311,Continuous,Creatinine__enzymatic__in_urine,0.63,,(0.54-0.72),https://portlandpress.com/clinsci/article-abstract/103/3/259/67324/Genetic-contribution-to-renal-function-and?redirectedFrom=fulltext,UK using AE model
+30520-0.0,483289,Continuous,Potassium_in_urine,0.40,,(0.27-0.51),https://portlandpress.com/clinsci/article-abstract/103/3/259/67324/Genetic-contribution-to-renal-function-and?redirectedFrom=fulltext,UK using AE model
+30520-0.0,483289,Continuous,Potassium_in_urine,0.62,0.06,,https://onlinelibrary.wiley.com/doi/10.1002/gepi.1370020103,Australian using AE model
+
+
+30010-0.0,478173,Continuous,Red_blood_cell__erythrocyte__count,0.75,0.04,,https://genepi.qimr.edu.au/contents/p/staff/CV057.pdf,Austrailian using AE model
+30010-0.0,478173,Continuous,Red_blood_cell__erythrocyte__count,0.42,,,https://www.sciencedirect.com/science/article/pii/S0006497120366258?via%3Dihub,UK using AE model
+
+30040-0.0,478171,Continuous,Mean_corpuscular_volume,0.47,0.11,,https://genepi.qimr.edu.au/contents/p/staff/CV057.pdf,Austrailian using AE model
+30040-0.0,478171,Continuous,Mean_corpuscular_volume,0.96,,(0.94-0.97),https://www.cambridge.org/core/journals/twin-research-and-human-genetics/article/genetic-and-environmental-causes-of-variation-in-basal-levels-of-blood-cells/203626F68CA398BCE187930886166064,Australian using ACDE model
+
+30080-0.0,478170,Continuous,Platelet_count,0.86,0.03,,https://genepi.qimr.edu.au/contents/p/staff/CV057.pdf,Austrailian using AE model
+30080-0.0,478170,Continuous,Platelet_count,0.57,,,https://www.sciencedirect.com/science/article/pii/S0006497120366258?via%3Dihub,UK using AE model
+30080-0.0,478170,Continuous,Platelet_count,0.80,,(0.65-0.85),https://www.cambridge.org/core/journals/twin-research-and-human-genetics/article/genetic-and-environmental-causes-of-variation-in-basal-levels-of-blood-cells/203626F68CA398BCE187930886166064,Australian using ACDE model
+
+30050-0.0,478170,Continuous,Mean_corpuscular_haemoglobin,0.91,0.02,,https://genepi.qimr.edu.au/contents/p/staff/CV057.pdf,Austrailian male using AE model
+30050-0.0,478170,Continuous,Mean_corpuscular_haemoglobin,0.44,0.20,,https://genepi.qimr.edu.au/contents/p/staff/CV057.pdf,Austrailian female using AE model
+30050-0.0,478170,Continuous,Mean_corpuscular_haemoglobin,0.37,,,https://www.sciencedirect.com/science/article/pii/S0006497120366258?via%3Dihub,UK using AE model
+
+30000-0.0,478168,Continuous,White_blood_cell__leukocyte__count,0.58,0.06,,https://genepi.qimr.edu.au/contents/p/staff/CV057.pdf,Austrailian using AE model
+30000-0.0,478168,Continuous,White_blood_cell__leukocyte__count,0.62,,,https://www.sciencedirect.com/science/article/pii/S0006497120366258?via%3Dihub,UK using AE model
+30000-0.0,478168,Continuous,White_blood_cell__leukocyte__count,0.71,,(0.64-0.77),https://www.cambridge.org/core/journals/twin-research-and-human-genetics/article/genetic-and-environmental-causes-of-variation-in-basal-levels-of-blood-cells/203626F68CA398BCE187930886166064,Australian using ACDE model
+
+30100-0.0,478165,Continuous,Mean_platelet__thrombocyte__volume,0.88,0.03,,https://genepi.qimr.edu.au/contents/p/staff/CV057.pdf,Austrailian using AE model
+
+30130-0.0,477284,Continuous,Monocyte_count,0.583,,(0.446-0.720),https://www.cambridge.org/core/journals/twin-research-and-human-genetics/article/heritability-and-gwas-studies-for-monocytelymphocyte-ratio/F070979AF76B6A117FBF21BB3BAB4719,Netherlands using ADCE model
+30130-0.0,477284,Continuous,Monocyte_count,0.66,,(0.56-0.73),https://www.cambridge.org/core/journals/twin-research-and-human-genetics/article/genetic-and-environmental-causes-of-variation-in-basal-levels-of-blood-cells/203626F68CA398BCE187930886166064,Australian using ACDE model
+
+30140-0.0,477284,Continuous,Neutrophill_count,0.67,,(0.58-0.74),https://www.cambridge.org/core/journals/twin-research-and-human-genetics/article/genetic-and-environmental-causes-of-variation-in-basal-levels-of-blood-cells/203626F68CA398BCE187930886166064,Australian using ACDE model
+
+30150-0.0,477284,Continuous,Eosinophill_count,0.69,,(0.60-0.76),https://www.cambridge.org/core/journals/twin-research-and-human-genetics/article/genetic-and-environmental-causes-of-variation-in-basal-levels-of-blood-cells/203626F68CA398BCE187930886166064,Australian using ACDE model
+
+30120-0.0,477284,Continuous,Lymphocyte_count,0.576,,(0.461-0.653),https://www.cambridge.org/core/journals/twin-research-and-human-genetics/article/heritability-and-gwas-studies-for-monocytelymphocyte-ratio/F070979AF76B6A117FBF21BB3BAB4719,Netherlands using ADCE model
+30120-0.0,477284,Continuous,Lymphocyte_count,0.71,,(0.63-0.77),https://www.cambridge.org/core/journals/twin-research-and-human-genetics/article/genetic-and-environmental-causes-of-variation-in-basal-levels-of-blood-cells/203626F68CA398BCE187930886166064,Australian using ACDE model
+30120-0.0,477284,Continuous,Lymphocyte_count,0.48,,(0.30-0.63),https://www.nature.com/articles/6363702,UK using ACE model
+
+30610-0.0,469602,Continuous,Alkaline_phosphatase,0.71,0.05,,https://pmc.ncbi.nlm.nih.gov/articles/PMC1685834/,Austrailian male using AE model
+30610-0.0,469602,Continuous,Alkaline_phosphatase,0.90,0.02,,https://pmc.ncbi.nlm.nih.gov/articles/PMC1685834/,Austrailian female using AE model
+30610-0.0,469602,Continuous,Alkaline_phosphatase,0.59,,,https://onlinelibrary.wiley.com/doi/10.1002/gepi.1370040102,US using AE model
+
+30690-0.0,469589,Continuous,Cholesterol,0.58,,,https://onlinelibrary.wiley.com/doi/10.1002/gepi.1370050504,Australian using AE model
+30690-0.0,469589,Continuous,Cholesterol,0.63,,,https://www.nejm.org/doi/full/10.1056/NEJM199304223281603,Swedish using ACE model
+30690-0.0,469589,Continuous,Cholesterol,0.32,,,https://www.nejm.org/doi/full/10.1056/NEJM199304223281603,Swedish using ACE model
+30690-0.0,469589,Continuous,Cholesterol,0.40,,,https://www.nejm.org/doi/full/10.1056/NEJM199304223281603,Swedish male using ACE model
+30690-0.0,469589,Continuous,Cholesterol,0.45,,,https://www.nejm.org/doi/full/10.1056/NEJM199304223281603,Swedish female using ACE model
+
+30720-0.0,469558,Continuous,Cystatin_C,0.60,,(0.56-0.63),https://www.ahajournals.org/doi/10.1161/JAHA.114.001467,Swedish using ADE model
+30720-0.0,469558,Continuous,Cystatin_C,0.55,,(0.49-0.60),https://www.ahajournals.org/doi/10.1161/JAHA.114.001467,Swedish male using ADE model
+30720-0.0,469558,Continuous,Cystatin_C,0.63,,(0.59-0.66),https://www.ahajournals.org/doi/10.1161/JAHA.114.001467,Swedish female using ADE model
+
+30700-0.0,469357,Continuous,Creatinine,0.59,,(0.56-0.62),https://pmc.ncbi.nlm.nih.gov/articles/PMC4330070/,Swedish using ADE model
+30700-0.0,469357,Continuous,Creatinine,0.56,,(0.51-0.61),https://pmc.ncbi.nlm.nih.gov/articles/PMC4330070/,Swedish male using ADE model
+30700-0.0,469357,Continuous,Creatinine,0.62,,(0.58-0.65),https://pmc.ncbi.nlm.nih.gov/articles/PMC4330070/,Swedish female using ADE model
+30700-0.0,469357,Continuous,Creatinine,0.47,0.17,,https://journals.sagepub.com/doi/10.1177/000456328402100303,Austrailian using AE model
+
+30670-0.0,469271,Continuous,Urea,0.54,,(0.32-0.69),https://www.sciencedirect.com/science/article/pii/S0009898104003262?via%3Dihub,Danish male using AE model
+30670-0.0,469271,Continuous,Urea,0.43,,(0.14-0.64),https://www.sciencedirect.com/science/article/pii/S0009898104003262?via%3Dihub,Danish male using AE model
+30670-0.0,469271,Continuous,Urea,0.36,,(0.18-0.51),https://www.sciencedirect.com/science/article/pii/S0009898104003262?via%3Dihub,Danish female using AE model
+
+30870-0.0,469214,Continuous,Triglycerides,0.72,,,https://www.nejm.org/doi/full/10.1056/NEJM199304223281603,Swedish using AE model
+30870-0.0,469214,Continuous,Triglycerides,0.28,,,https://www.nejm.org/doi/full/10.1056/NEJM199304223281603,Swedish using AE model
+30870-0.0,469214,Continuous,Triglycerides,0.45,,,https://www.nejm.org/doi/full/10.1056/NEJM199304223281603,Swedish male using AE model
+30870-0.0,469214,Continuous,Triglycerides,0.55,,,https://www.nejm.org/doi/full/10.1056/NEJM199304223281603,Swedish female using AE model
+
+30880-0.0,469025,Continuous,Urate,0.63,,(0.50-0.72),https://www.sciencedirect.com/science/article/pii/S0009898104003262?via%3Dihub,Danish female using AE model
+30880-0.0,469025,Continuous,Urate,0.57,,(0.43-0.68),https://www.sciencedirect.com/science/article/pii/S0009898104003262?via%3Dihub,Danish female using AE model
+
+30710-0.0,468568,Continuous,C-reactive_protein,0.61,,(0.47-0.72),https://www.sciencedirect.com/science/article/pii/S0021915007008039?via%3Dihub,US using AE model
+
+30790-0.0,375633,Continuous,Lipoprotein_A,0.935,,,https://pmc.ncbi.nlm.nih.gov/articles/PMC1682765/,US female using ADE model
+30790-0.0,375633,Continuous,Lipoprotein_A,0.449,,,https://pmc.ncbi.nlm.nih.gov/articles/PMC1682765/,US female using ACE model
+
+30640-0.0,467206,Continuous,Apolipoprotein_B,0.78,,,https://www.nejm.org/doi/full/10.1056/NEJM199304223281603,Swedish using AE model
+30640-0.0,467206,Continuous,Apolipoprotein_B,0.28,,,https://www.nejm.org/doi/full/10.1056/NEJM199304223281603,Swedish using AE model
+30640-0.0,467206,Continuous,Apolipoprotein_B,0.53,,,https://www.nejm.org/doi/full/10.1056/NEJM199304223281603,Swedish male using AE model
+30640-0.0,467206,Continuous,Apolipoprotein_B,0.63,,,https://www.nejm.org/doi/full/10.1056/NEJM199304223281603,Swedish female using AE model
+
+30770-0.0,467040,Continuous,IGF-1,0.63,,,https://www.nature.com/articles/s41366-025-01773-x?,Swedish
+
+30750-0.0,466504,Continuous,Glycated_haemoglobin__HbA1c_,0.75,,(0.62-0.84),https://www.cambridge.org/core/journals/twin-research-and-human-genetics/article/heritability-of-hba1c-and-fasting-blood-glucose-in-different-measurement-settings/93F3FA0B0713241F48DFC9A253277396,Netherlands using AE model
+
+3063-0.0,453698,Continuous,Forced_expiratory_volume_in_1-second__FEV1_,0.68,,,https://www.tandfonline.com/doi/full/10.3402/ecrj.v1.25535#d1e172,
+3063-0.0,453698,Continuous,Forced_expiratory_volume_in_1-second__FEV1_,0.77,,,https://www.atsjournals.org/doi/10.1164/arrd.1982.125.4.409?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed,US using AE model
+3063-0.0,453698,Continuous,Forced_expiratory_volume_in_1-second__FEV1_,0.65,,,https://www.atsjournals.org/doi/10.1164/arrd.1982.125.4.409?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed,US using AE model
+3063-0.0,453698,Continuous,Forced_expiratory_volume_in_1-second__FEV1_,0.73,,,https://www.atsjournals.org/doi/10.1164/arrd.1982.125.4.409?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed,US using AE model
+3063-0.0,453698,Continuous,Forced_expiratory_volume_in_1-second__FEV1_,0.74,,,https://www.atsjournals.org/doi/10.1164/arrd.1982.125.4.409?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed,US using AE model
+3063-0.0,453698,Continuous,Forced_expiratory_volume_in_1-second__FEV1_,0.64,,(0.60-0.67),https://link.springer.com/article/10.1007/s00408-025-00825-3,Danish using ACDE model
+3063-0.0,453698,Continuous,Forced_expiratory_volume_in_1-second__FEV1_,0.32,,,https://www.cambridge.org/core/journals/twin-research-and-human-genetics/article/heritability-of-lung-function-a-twin-study-among-neversmoking-elderly-women/DF4D10CCD99279AA0D1B8B9D6DF7DC69,Finland female using ACE model
+
+3062-0.0,453698,Continuous,Forced_vital_capacity__FVC_,0.95,,,https://www.atsjournals.org/doi/10.1164/arrd.1982.125.4.409?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed,US using AE model
+3062-0.0,453698,Continuous,Forced_vital_capacity__FVC_,0.91,,,https://www.atsjournals.org/doi/10.1164/arrd.1982.125.4.409?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed,US using AE model
+3062-0.0,453698,Continuous,Forced_vital_capacity__FVC_,0.61,,(0.57-0.65),https://link.springer.com/article/10.1007/s00408-025-00825-3,Danish using ACDE model
+3062-0.0,453698,Continuous,Forced_vital_capacity__FVC_,0.41,,,https://www.cambridge.org/core/journals/twin-research-and-human-genetics/article/heritability-of-lung-function-a-twin-study-among-neversmoking-elderly-women/DF4D10CCD99279AA0D1B8B9D6DF7DC69,Finland female using ACE model
+
+30890-0.0,448350,Continuous,Vitamin_D,0.43,,(0.28-0.57),https://onlinelibrary.wiley.com/doi/10.1359/jbmr.2001.16.2.371,UK using ACDE model
+30890-0.0,448350,Continuous,Vitamin_D,0.77,,,https://www.sciencedirect.com/science/article/pii/S0002916523241222?via%3Dihub,Canadian using ACDE model
+30890-0.0,448350,Continuous,Vitamin_D,0.288,0.113,,https://www.nature.com/articles/1602959#Sec2,US using AE model
+
+30600-0.0,430075,Continuous,Albumin,0.36,,,https://onlinelibrary.wiley.com/doi/10.1002/gepi.1370040102,US using AE model
+30600-0.0,430075,Continuous,Albumin,0.73,0.04,,https://journals.sagepub.com/doi/10.1177/000456328402100303,Austrailian using AE model
+
+30760-0.0,429871,Continuous,HDL_cholesterol,0.60,,,https://onlinelibrary.wiley.com/doi/10.1002/gepi.1370050504,Australian using AE model
+30760-0.0,429871,Continuous,HDL_cholesterol,0.76,,,https://www.nejm.org/doi/full/10.1056/NEJM199304223281603,Swedish using AE model
+30760-0.0,429871,Continuous,HDL_cholesterol,0.55,,,https://www.nejm.org/doi/full/10.1056/NEJM199304223281603,Swedish using AE model
+30760-0.0,429871,Continuous,HDL_cholesterol,0.65,,,https://www.nejm.org/doi/full/10.1056/NEJM199304223281603,Swedish male using AE model
+30760-0.0,429871,Continuous,HDL_cholesterol,0.60,,,https://www.nejm.org/doi/full/10.1056/NEJM199304223281603,Swedish female using AE model
+
+30860-0.0,429604,Continuous,Total_protein,0.404,0.235,,https://www.medrxiv.org/content/10.1101/2024.04.24.24306270v1.full-text,
+30860-0.0,429604,Continuous,Total_protein,0.53,,,https://onlinelibrary.wiley.com/doi/10.1002/gepi.1370040102,US using AE model
+30860-0.0,429604,Continuous,Total_protein,0.62,0.06,,https://journals.sagepub.com/doi/10.1177/000456328402100303,Austrailian using AE model
+
+30810-0.0,429251,Continuous,Phosphate,0.58,,(0.53-0.62),https://portlandpress.com/clinsci/article-abstract/103/3/259/67324/Genetic-contribution-to-renal-function-and?redirectedFrom=fulltext,UK using AE model
+30810-0.0,429251,Continuous,Phosphate,0.56,0.07,,https://journals.sagepub.com/doi/10.1177/000456328402100303,Austrailian using AE model
+
+30630-0.0,427510,Continuous,Apolipoprotein_A,0.69,,,https://www.nejm.org/doi/full/10.1056/NEJM199304223281603,Swedish using AE model
+30630-0.0,427510,Continuous,Apolipoprotein_A,0.52,,,https://www.nejm.org/doi/full/10.1056/NEJM199304223281603,Swedish using ACE model
+30630-0.0,427510,Continuous,Apolipoprotein_A,0.60,,,https://www.nejm.org/doi/full/10.1056/NEJM199304223281603,Swedish male using AE model
+30630-0.0,427510,Continuous,Apolipoprotein_A,0.57,,,https://www.nejm.org/doi/full/10.1056/NEJM199304223281603,Swedish male using AE model
+
+30830-0.0,425846,Continuous,SHBG,0.36,,,https://academic.oup.com/jcem/article/90/6/3653/2870609?login=true,US using ACE model
+30830-0.0,425846,Continuous,SHBG,0.68,,(0.60-0.76),https://academic.oup.com/jcem/article/90/6/3653/2870609?login=true,US using AE model
+
+30850-0.0,425207,Continuous,Testosterone,0.566,,,https://www.sciencedirect.com/science/article/pii/S0306453012001588?via%3Dihub,
+30850-0.0,425207,Continuous,Testosterone,0.32,,,https://academic.oup.com/jcem/article/90/6/3653/2870609?login=true,US using ACE model
+30850-0.0,425207,Continuous,Testosterone,0.57,,(0.46-0.68),https://academic.oup.com/jcem/article/90/6/3653/2870609?login=true,US using AE model

@@ -1,0 +1,22 @@
+tmp/*
+src/numGWAS/*
+src/pyGCTA/
+data/UKB.merged.afreq
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environment directories
+venv/
+.env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Conda environment files
+*.conda
+*.env
+
+# IDE-specific files (e.g., VS Code)
+.vscode/

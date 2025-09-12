@@ -1,0 +1,33 @@
+name: factor
+channels:
+  - conda-forge
+dependencies:
+  # Python & Core
+  - python=3.11
+  - pip
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - seaborn
+  - statsmodels
+  - tqdm
+  - numba
+
+  # Jupyter environment
+  - jupyterlab
+  - notebook
+  - ipykernel
+  - ipython
+
+  # Utilities
+  - pyyaml
+  - requests
+  - psutil
+
+  # Visualization extras
+  - matplotlib-venn
+
+  # pip packages
+  - pip:
+      - ipynbname
